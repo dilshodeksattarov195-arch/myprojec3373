@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smseecrypt",
+        "uuid": 20049112,
+        "checksum": "v6wrzs"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
